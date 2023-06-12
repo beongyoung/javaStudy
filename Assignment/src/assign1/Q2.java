@@ -37,5 +37,4 @@ public class Q2 {
 		
 		JOptionPane.showMessageDialog(null, "나이는 " + age + "살 입니다.");
 	}
-
 }
